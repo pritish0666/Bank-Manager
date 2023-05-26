@@ -1,0 +1,24 @@
+.wrapper {
+  height: 525px;
+  width: 360px;
+  color: black;
+  background: #69c7d3;
+  border-radius: 1rem;
+  padding: 1.2rem;
+  margin: 100px auto;
+  justify-content:center;
+}
+
+h1{
+  color: #e53e3e;
+  background-color: palegoldenrod;
+  text-align: center;
+  
+  
+}
+
+.form{
+  justify-content:center;
+  align-content:center;
+  
+}
